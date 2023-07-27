@@ -21,7 +21,7 @@ DB_HOST = "localhost"
 DB_PORT = 5432
 DB_NAME = "clinica"
 DB_USER = "postgres"
-DB_PASSWORD = "524652"
+DB_PASSWORD = "you-password"
 
 # Funções auxiliares
 pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
